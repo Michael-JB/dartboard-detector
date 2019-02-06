@@ -13,3 +13,7 @@ These are some examples of the final detector output given the inputs from `imag
 ![Dart 13](/output/detections/dart13overlay.jpg)
 ![Dart 14](/output/detections/dart14overlay.jpg)
 ![Dart 15](/output/detections/dart15overlay.jpg)
+
+## License
+
+[MIT license](./LICENSE)
