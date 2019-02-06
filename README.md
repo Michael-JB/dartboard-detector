@@ -1,7 +1,7 @@
 # Dartboard Detector
 Summative coursework by @Michael-JB and @SSutherlandDeeBristol
 
-This project implements Hough transforms from scratch for both line and circle extraction, then combines viola jones data to create a weighted dartboard detector. The implementation is summarised in `report.pdf`.
+This project implements Hough transforms from scratch for both line and circle extraction, then combines [OpenCV](https://github.com/opencv/opencv) viola jones data to create a weighted dartboard detector. The implementation is summarised in `report.pdf`.
 
 ## Sample Detections
 
